@@ -3,7 +3,12 @@
 	<title>Pagina Principal</title>
 </head>
 <body>
-	<h1>Saludos cordiales </h1>
+
+	<font size="14" name="Tempus Sans ITC" color="Blue">
+		<Marquee>
+			SALUDOS CORDIALES AngelHT
+		</Marquee>
+	
 
 	<div id="newsletter" class="section">
 			<!-- container -->
